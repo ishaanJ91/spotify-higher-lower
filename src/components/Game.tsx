@@ -1,22 +1,37 @@
 import { useState, useEffect } from "react";
+import trackData from "../assets/data.json"; // Ensure this path is correct
 
-export default function Game() {
-  const [start, setStart] = useState(false);
+function getRandomTracks(tracks: any[], count: number) {
+  const shuffled = tracks.sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, count);
+}
+
+function Game() {
+  const [randomTracks, setRandomTracks] = useState<any[]>([]);
+  var nf = new Intl.NumberFormat();
+
+  useEffect(() => {
+    const randomSelection = getRandomTracks(trackData, 2); // Use the imported data here
+    setRandomTracks(randomSelection);
+  }, []);
 
   return (
-    <>
-      <div>
-        <h1 className="text-7xl font-medium text-green-500 py-6">
-          {" "}
-          Spotify Higher or Lower{" "}
-        </h1>
-        <button
-          className="bg-green-500 text-2xl border-none hover:bg-green-700 text-white font-bold py-4 px-6 rounded"
-          onClick={() => setStart(true)}
-        >
-          Start Game
-        </button>
-      </div>
-    </>
+    <div className="flex flex-row justify-around">
+      {randomTracks.map((track, index) => (
+        <div key={index} className="flex flex-col items-center gap-1">
+          <img
+            src={track.displayImageUri}
+            alt={track.trackName}
+            width="300"
+            className="pb-6"
+          />
+          <h2>{track.trackName}</h2>
+          <p>{track.name}</p>
+          <h1>{nf.format(track.value)}</h1>
+        </div>
+      ))}
+    </div>
   );
 }
+
+export default Game;

@@ -1,0 +1,1402 @@
+[
+  {
+    "currentRank": 1,
+    "trackName": "Die With A Smile",
+    "name": "Lady Gaga",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45",
+    "value": "68135080"
+  },
+  {
+    "currentRank": 2,
+    "trackName": "APT.",
+    "name": "ROS\u00c9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025074bd0894cb1340b8d8a678",
+    "value": "60486312"
+  },
+  {
+    "currentRank": 3,
+    "trackName": "All I Want for Christmas Is You",
+    "name": "Mariah Carey",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+    "value": "51621732"
+  },
+  {
+    "currentRank": 4,
+    "trackName": "Last Christmas",
+    "name": "Wham!",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
+    "value": "50554131"
+  },
+  {
+    "currentRank": 5,
+    "trackName": "BIRDS OF A FEATHER",
+    "name": "Billie Eilish",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+    "value": "45417447"
+  },
+  {
+    "currentRank": 6,
+    "trackName": "Rockin' Around The Christmas Tree",
+    "name": "Brenda Lee",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027845f74d6db14b400fa61cd3",
+    "value": "44823735"
+  },
+  {
+    "currentRank": 7,
+    "trackName": "That\u2019s So True",
+    "name": "Gracie Abrams",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
+    "value": "43330956"
+  },
+  {
+    "currentRank": 8,
+    "trackName": "Jingle Bell Rock",
+    "name": "Bobby Helms",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd56f3c7a294f5cfe51c7b17",
+    "value": "41055176"
+  },
+  {
+    "currentRank": 9,
+    "trackName": "luther (with sza)",
+    "name": "Kendrick Lamar",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0209d6ed214f03fbb663e46531",
+    "value": "35020901"
+  },
+  {
+    "currentRank": 10,
+    "trackName": "Santa Tell Me",
+    "name": "Ariana Grande",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a1db745e63940bc06985dea5",
+    "value": "34645959"
+  },
+  {
+    "currentRank": 11,
+    "trackName": "Who",
+    "name": "Jimin",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+    "value": "34204629"
+  },
+  {
+    "currentRank": 12,
+    "trackName": "Snowman",
+    "name": "Sia",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d1410c1372fab1e516328fa8",
+    "value": "30574093"
+  },
+  {
+    "currentRank": 13,
+    "trackName": "Let It Snow! Let It Snow! Let It Snow!",
+    "name": "Dean Martin",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026d88028a85c771f37374c8ea",
+    "value": "29668081"
+  },
+  {
+    "currentRank": 14,
+    "trackName": "Sailor Song",
+    "name": "Gigi Perez",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e6065f209e0a01986206bd53",
+    "value": "29584305"
+  },
+  {
+    "currentRank": 15,
+    "trackName": "It's the Most Wonderful Time of the Year",
+    "name": "Andy Williams",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02585897779cf3591ba0f07650",
+    "value": "29155927"
+  },
+  {
+    "currentRank": 16,
+    "trackName": "Underneath the Tree",
+    "name": "Kelly Clarkson",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f54a315f1d2445791fe601a7",
+    "value": "28536313"
+  },
+  {
+    "currentRank": 17,
+    "trackName": "Espresso",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+    "value": "27800226"
+  },
+  {
+    "currentRank": 18,
+    "trackName": "WILDFLOWER",
+    "name": "Billie Eilish",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+    "value": "26696347"
+  },
+  {
+    "currentRank": 19,
+    "trackName": "It's Beginning to Look a Lot like Christmas",
+    "name": "Michael Bubl\u00e9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+    "value": "26548915"
+  },
+  {
+    "currentRank": 20,
+    "trackName": "Feliz Navidad",
+    "name": "Jos\u00e9 Feliciano",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c8ac560f803bba4902f8bbc5",
+    "value": "25708186"
+  },
+  {
+    "currentRank": 21,
+    "trackName": "Timeless (with Playboi Carti)",
+    "name": "The Weeknd",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0294f662ef3b5677376d8a78d4",
+    "value": "25558741"
+  },
+  {
+    "currentRank": 22,
+    "trackName": "Good Luck, Babe!",
+    "name": "Chappell Roan",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0291b4bc7c88d91a42e0f3a8b7",
+    "value": "24120486"
+  },
+  {
+    "currentRank": 23,
+    "trackName": "Tu Boda",
+    "name": "Oscar Maydon",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b51d9a74d356d785cce9dea9",
+    "value": "23407509"
+  },
+  {
+    "currentRank": 24,
+    "trackName": "Beautiful Things",
+    "name": "Benson Boone",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cc04ff3e70e146ba9abacf40",
+    "value": "23032821"
+  },
+  {
+    "currentRank": 25,
+    "trackName": "Taste",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+    "value": "22792663"
+  },
+  {
+    "currentRank": 26,
+    "trackName": "tv off (feat. lefty gunplay)",
+    "name": "Kendrick Lamar",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+    "value": "22703538"
+  },
+  {
+    "currentRank": 27,
+    "trackName": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+    "name": "Arcane",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024aaf2413384c1efcc38353c6",
+    "value": "22617119"
+  },
+  {
+    "currentRank": 28,
+    "trackName": "Holly Jolly Christmas",
+    "name": "Michael Bubl\u00e9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022ead7786631d8dd3b59be4f0",
+    "value": "22540345"
+  },
+  {
+    "currentRank": 29,
+    "trackName": "Sleigh Ride",
+    "name": "The Ronettes",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021f0d5a8ff630fd5944c3936d",
+    "value": "22308152"
+  },
+  {
+    "currentRank": 30,
+    "trackName": "Si Antes Te Hubiera Conocido",
+    "name": "KAROL G",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e",
+    "value": "21790676"
+  },
+  {
+    "currentRank": 31,
+    "trackName": "ROSONES",
+    "name": "Tito Double P",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c6d0e8bfb41e9d9cee3a1248",
+    "value": "21444614"
+  },
+  {
+    "currentRank": 32,
+    "trackName": "Qu\u00e9 Pasar\u00eda...",
+    "name": "Rauw Alejandro",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ed432d7df981360768dd5856",
+    "value": "20590598"
+  },
+  {
+    "currentRank": 33,
+    "trackName": "Kh\u00e9?",
+    "name": "Rauw Alejandro",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ed432d7df981360768dd5856",
+    "value": "20312038"
+  },
+  {
+    "currentRank": 34,
+    "trackName": "toxic till the end",
+    "name": "ROS\u00c9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025074bd0894cb1340b8d8a678",
+    "value": "20067075"
+  },
+  {
+    "currentRank": 35,
+    "trackName": "Mistletoe",
+    "name": "Justin Bieber",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
+    "value": "20052665"
+  },
+  {
+    "currentRank": 36,
+    "trackName": "Messy",
+    "name": "Lola Young",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026aa2a180c7b009ca8454ef89",
+    "value": "19704871"
+  },
+  {
+    "currentRank": 37,
+    "trackName": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+    "name": "Myke Towers",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02211e6d4c3a41019e9309686d",
+    "value": "19593691"
+  },
+  {
+    "currentRank": 38,
+    "trackName": "Please Please Please",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+    "value": "19319343"
+  },
+  {
+    "currentRank": 39,
+    "trackName": "Wonderful Christmastime - Edited Version / Remastered 2011",
+    "name": "Paul McCartney",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e023cef016d13d82873d45af84a",
+    "value": "18795878"
+  },
+  {
+    "currentRank": 40,
+    "trackName": "The Christmas Song (Merry Christmas To You)",
+    "name": "Nat King Cole",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02deac5adf07affb5fec422701",
+    "value": "18760078"
+  },
+  {
+    "currentRank": 41,
+    "trackName": "I Wanna Be Yours",
+    "name": "Arctic Monkeys",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+    "value": "18491598"
+  },
+  {
+    "currentRank": 42,
+    "trackName": "Running Wild",
+    "name": "Jin",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0202dd46d1f82ce19b5927b269",
+    "value": "18339356"
+  },
+  {
+    "currentRank": 43,
+    "trackName": "Lose Control",
+    "name": "Teddy Swims",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021a0323cc23419360a34a3ace",
+    "value": "18270732"
+  },
+  {
+    "currentRank": 44,
+    "trackName": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+    "name": "Perry Como",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d5f598be32d3027b9578ecd6",
+    "value": "17962947"
+  },
+  {
+    "currentRank": 45,
+    "trackName": "squabble up",
+    "name": "Kendrick Lamar",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+    "value": "17802161"
+  },
+  {
+    "currentRank": 46,
+    "trackName": "See You Again (feat. Kali Uchis)",
+    "name": "Tyler, The Creator",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028940ac99f49e44f59e6f7fb3",
+    "value": "17530601"
+  },
+  {
+    "currentRank": 47,
+    "trackName": "I Love You, I'm Sorry",
+    "name": "Gracie Abrams",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+    "value": "17527973"
+  },
+  {
+    "currentRank": 48,
+    "trackName": "Like Him (feat. Lola Young)",
+    "name": "Tyler, The Creator",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02124e9249fada4ff3c3a0739c",
+    "value": "17474075"
+  },
+  {
+    "currentRank": 49,
+    "trackName": "The Night We Met",
+    "name": "Lord Huron",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029d2efe43d5b7ebc7cb60ca81",
+    "value": "17407373"
+  },
+  {
+    "currentRank": 50,
+    "trackName": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "name": "The Weeknd",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b0dd6a5cd1dec96c4119c262",
+    "value": "17402002"
+  },
+  {
+    "currentRank": 51,
+    "trackName": "we can't be friends (wait for your love)",
+    "name": "Ariana Grande",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028b58d20f1b77295730db15b4",
+    "value": "17336211"
+  },
+  {
+    "currentRank": 52,
+    "trackName": "Happy Xmas (War Is Over) - Remastered 2010",
+    "name": "John Lennon",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0261a389971d7842d02b0623ab",
+    "value": "17211484"
+  },
+  {
+    "currentRank": 53,
+    "trackName": "Carol of the Bells",
+    "name": "John Williams",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f497846e25233023ca7cb8b1",
+    "value": "16823158"
+  },
+  {
+    "currentRank": 54,
+    "trackName": "Sweater Weather",
+    "name": "The Neighbourhood",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
+    "value": "16730544"
+  },
+  {
+    "currentRank": 55,
+    "trackName": "NADIE",
+    "name": "Tito Double P",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02369bcf083996da3c3b6d1f40",
+    "value": "16729489"
+  },
+  {
+    "currentRank": 56,
+    "trackName": "Locked out of Heaven",
+    "name": "Bruno Mars",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+    "value": "16341476"
+  },
+  {
+    "currentRank": 57,
+    "trackName": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "name": "Tyler, The Creator",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02124e9249fada4ff3c3a0739c",
+    "value": "16322362"
+  },
+  {
+    "currentRank": 58,
+    "trackName": "A Nonsense Christmas",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024601ead4fc2b9b65627b8298",
+    "value": "16177239"
+  },
+  {
+    "currentRank": 59,
+    "trackName": "End of Beginning",
+    "name": "Djo",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1",
+    "value": "16171814"
+  },
+  {
+    "currentRank": 60,
+    "trackName": "Just the Way You Are",
+    "name": "Bruno Mars",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+    "value": "16104806"
+  },
+  {
+    "currentRank": 61,
+    "trackName": "Too Sweet",
+    "name": "Hozier",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025aa29751874ca4ba06da8877",
+    "value": "16102213"
+  },
+  {
+    "currentRank": 62,
+    "trackName": "LUNA",
+    "name": "Feid",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f1aad814a40ec7419c234242",
+    "value": "15687749"
+  },
+  {
+    "currentRank": 63,
+    "trackName": "That's What I Like",
+    "name": "Bruno Mars",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5",
+    "value": "15641986"
+  },
+  {
+    "currentRank": 64,
+    "trackName": "Merry Christmas Everyone",
+    "name": "Shakin' Stevens",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d962f3b4235f8c6429a829fb",
+    "value": "15451092"
+  },
+  {
+    "currentRank": 65,
+    "trackName": "Christmas (Baby Please Come Home)",
+    "name": "Darlene Love",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024bd42504ca3569f71af64fc8",
+    "value": "15412970"
+  },
+  {
+    "currentRank": 66,
+    "trackName": "Merry Christmas",
+    "name": "Ed Sheeran",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0276881e9e41989d99a205b169",
+    "value": "15393652"
+  },
+  {
+    "currentRank": 67,
+    "trackName": "A Bar Song (Tipsy)",
+    "name": "Shaboozey",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0260df033c8f8b17384387666a",
+    "value": "15284607"
+  },
+  {
+    "currentRank": 68,
+    "trackName": "Winter Ahead (with PARK HYO SHIN)",
+    "name": "V",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0216ba2a3622bd0d0d985e3234",
+    "value": "15123171"
+  },
+  {
+    "currentRank": 69,
+    "trackName": "Presidente",
+    "name": "Gabito Ballesteros",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f66501800b3a51af3bc69f8d",
+    "value": "15002222"
+  },
+  {
+    "currentRank": 70,
+    "trackName": "Do They Know It's Christmas? - 1984 Version",
+    "name": "Band Aid",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d549b09f0264901929eaa6e8",
+    "value": "14967239"
+  },
+  {
+    "currentRank": 71,
+    "trackName": "Kill Bill",
+    "name": "SZA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020c471c36970b9406233842a5",
+    "value": "14817404"
+  },
+  {
+    "currentRank": 72,
+    "trackName": "DOS D\u00cdAS",
+    "name": "Tito Double P",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0247e9618ef7411438f9c9478b",
+    "value": "14725249"
+  },
+  {
+    "currentRank": 73,
+    "trackName": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+    "name": "Frank Sinatra",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022e1e77d6acadd7e238d7bc42",
+    "value": "14575012"
+  },
+  {
+    "currentRank": 74,
+    "trackName": "EL LOKERON",
+    "name": "Tito Double P",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0247e9618ef7411438f9c9478b",
+    "value": "14067214"
+  },
+  {
+    "currentRank": 75,
+    "trackName": "Yellow",
+    "name": "Coldplay",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+    "value": "14018023"
+  },
+  {
+    "currentRank": 76,
+    "trackName": "NIGHTS LIKE THIS",
+    "name": "The Kid LAROI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022abb30c6296964d5d07458c2",
+    "value": "13961473"
+  },
+  {
+    "currentRank": 77,
+    "trackName": "EL CL\u00faB",
+    "name": "Bad Bunny",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024331112097a80e410d085ec0",
+    "value": "13950077"
+  },
+  {
+    "currentRank": 78,
+    "trackName": "The Emptiness Machine",
+    "name": "Linkin Park",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0",
+    "value": "13945216"
+  },
+  {
+    "currentRank": 79,
+    "trackName": "blue",
+    "name": "yung kai",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02373c63a4666fb7193febc167",
+    "value": "13856546"
+  },
+  {
+    "currentRank": 80,
+    "trackName": "Every Breath You Take",
+    "name": "The Police",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
+    "value": "13836069"
+  },
+  {
+    "currentRank": 81,
+    "trackName": "Run Rudolph Run",
+    "name": "Chuck Berry",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0239807cff601735a3dec9e24c",
+    "value": "13696586"
+  },
+  {
+    "currentRank": 82,
+    "trackName": "Driving Home for Christmas - 2019 Remaster",
+    "name": "Chris Rea",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026d621c2d5114cc41c96b376a",
+    "value": "13596215"
+  },
+  {
+    "currentRank": 83,
+    "trackName": "Riptide",
+    "name": "Vance Joy",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027cffb8896928039a0a10e4e7",
+    "value": "13543907"
+  },
+  {
+    "currentRank": 84,
+    "trackName": "Gata Only",
+    "name": "FloyyMenor",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02200e2b6526846c59789c92e6",
+    "value": "13486267"
+  },
+  {
+    "currentRank": 85,
+    "trackName": "Cruel Summer",
+    "name": "Taylor Swift",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+    "value": "13337607"
+  },
+  {
+    "currentRank": 86,
+    "trackName": "Night Changes",
+    "name": "One Direction",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d304ba2d71de306812eebaf4",
+    "value": "13238467"
+  },
+  {
+    "currentRank": 87,
+    "trackName": "Swim",
+    "name": "Chase Atlantic",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025a0c2870f4f309e382d1fad6",
+    "value": "13208038"
+  },
+  {
+    "currentRank": 88,
+    "trackName": "Blue Christmas",
+    "name": "Elvis Presley",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02aa509be2dd24fb6c753cf292",
+    "value": "13118071"
+  },
+  {
+    "currentRank": 89,
+    "trackName": "My Love Mine All Mine",
+    "name": "Mitski",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0234f21d3047d85440dfa37f10",
+    "value": "13112680"
+  },
+  {
+    "currentRank": 90,
+    "trackName": "Not Like Us",
+    "name": "Kendrick Lamar",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021ea0c62b2339cbf493a999ad",
+    "value": "12989725"
+  },
+  {
+    "currentRank": 91,
+    "trackName": "Viva La Vida",
+    "name": "Coldplay",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e",
+    "value": "12942404"
+  },
+  {
+    "currentRank": 92,
+    "trackName": "i like the way you kiss me",
+    "name": "Artemas",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028fe69d8df304ff053693653e",
+    "value": "12886353"
+  },
+  {
+    "currentRank": 93,
+    "trackName": "gervonta",
+    "name": "Peso Pluma",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020892be1577c5cdb7eee47fa7",
+    "value": "12868086"
+  },
+  {
+    "currentRank": 94,
+    "trackName": "Hallelujah",
+    "name": "Pentatonix",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ddbbb08d6f7a6ed263fa6afc",
+    "value": "12852848"
+  },
+  {
+    "currentRank": 95,
+    "trackName": "Snooze",
+    "name": "SZA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0270dbc9f47669d120ad874ec1",
+    "value": "12829538"
+  },
+  {
+    "currentRank": 96,
+    "trackName": "Iris",
+    "name": "The Goo Goo Dolls",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02eda9478c39a21e1cdc6609ca",
+    "value": "12758740"
+  },
+  {
+    "currentRank": 97,
+    "trackName": "MILLION DOLLAR BABY",
+    "name": "Tommy Richman",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0201c0cd5da820e6128655854f",
+    "value": "12752604"
+  },
+  {
+    "currentRank": 98,
+    "trackName": "Seven (feat. Latto) (Explicit Ver.)",
+    "name": "Jung Kook",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02741fd4807f442af3f7359316",
+    "value": "12750098"
+  },
+  {
+    "currentRank": 99,
+    "trackName": "Winter Wonderland - Spotify Singles Holiday",
+    "name": "Laufey",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d16831527ee5c1edd9327b78",
+    "value": "12706118"
+  },
+  {
+    "currentRank": 100,
+    "trackName": "Christmas Child",
+    "name": "Burl Ives",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029f8d6290b705901e1ad9aeb0",
+    "value": "12679140"
+  },
+  {
+    "currentRank": 101,
+    "trackName": "FE!N (feat. Playboi Carti)",
+    "name": "Travis Scott",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
+    "value": "12672315"
+  },
+  {
+    "currentRank": 102,
+    "trackName": "I Had Some Help (Feat. Morgan Wallen)",
+    "name": "Post Malone",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0288208159b1b3c69eefdeb2e0",
+    "value": "12670800"
+  },
+  {
+    "currentRank": 103,
+    "trackName": "In the End",
+    "name": "Linkin Park",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
+    "value": "12592248"
+  },
+  {
+    "currentRank": 104,
+    "trackName": "Bed Chem",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+    "value": "12439185"
+  },
+  {
+    "currentRank": 105,
+    "trackName": "CHIHIRO",
+    "name": "Billie Eilish",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+    "value": "12280023"
+  },
+  {
+    "currentRank": 106,
+    "trackName": "Deck The Hall",
+    "name": "Nat King Cole",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0230dc6027fd140c7ba68e900c",
+    "value": "12265029"
+  },
+  {
+    "currentRank": 107,
+    "trackName": "Have Yourself A Merry Little Christmas - Remastered 1999",
+    "name": "Frank Sinatra",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0294fd2e614d0862bdd2592594",
+    "value": "12236204"
+  },
+  {
+    "currentRank": 108,
+    "trackName": "Beanie",
+    "name": "Chezile",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c16d7b73bd1445e941588b73",
+    "value": "12185910"
+  },
+  {
+    "currentRank": 109,
+    "trackName": "Starboy",
+    "name": "The Weeknd",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+    "value": "12157355"
+  },
+  {
+    "currentRank": 110,
+    "trackName": "Q U E V A S H A C E R H O Y ?",
+    "name": "Omar Courtz",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02996764071dbd5240eefb2422",
+    "value": "11999103"
+  },
+  {
+    "currentRank": 111,
+    "trackName": "Step Into Christmas - Remastered 1995",
+    "name": "Elton John",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0268f5959744717483eed212b2",
+    "value": "11998294"
+  },
+  {
+    "currentRank": 112,
+    "trackName": "Jingle Bells - Remastered 1999",
+    "name": "Frank Sinatra",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0294fd2e614d0862bdd2592594",
+    "value": "11995653"
+  },
+  {
+    "currentRank": 113,
+    "trackName": "Mele Kalikimaka (Merry Christmas)",
+    "name": "Bing Crosby",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028004cd6b343732b0e1e666f5",
+    "value": "11994178"
+  },
+  {
+    "currentRank": 114,
+    "trackName": "number one girl",
+    "name": "ROS\u00c9",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025074bd0894cb1340b8d8a678",
+    "value": "11992066"
+  },
+  {
+    "currentRank": 115,
+    "trackName": "Little Saint Nick - 1991 Remix",
+    "name": "The Beach Boys",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0208c270b3ef1602ff84ed2c05",
+    "value": "11864521"
+  },
+  {
+    "currentRank": 116,
+    "trackName": "Fairytale of New York (feat. Kirsty MacColl)",
+    "name": "The Pogues",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d0ccf94a2d981db731f5dab8",
+    "value": "11701154"
+  },
+  {
+    "currentRank": 117,
+    "trackName": "Apocalypse",
+    "name": "Cigarettes After Sex",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0212b69bf576f5e80291f75161",
+    "value": "11676995"
+  },
+  {
+    "currentRank": 118,
+    "trackName": "Santa, Can\u2019t You Hear Me",
+    "name": "Kelly Clarkson",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021fa667a7a53c7072fed91a17",
+    "value": "11591112"
+  },
+  {
+    "currentRank": 119,
+    "trackName": "White Christmas - 1947 Version",
+    "name": "Bing Crosby",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028004cd6b343732b0e1e666f5",
+    "value": "11542827"
+  },
+  {
+    "currentRank": 120,
+    "trackName": "No Pole",
+    "name": "Don Toliver",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f5e27c2aa0b110c2b6611577",
+    "value": "11539503"
+  },
+  {
+    "currentRank": 121,
+    "trackName": "Guess featuring billie eilish",
+    "name": "Charli xcx",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0255a1e72ba425c60a02a9bb47",
+    "value": "11367002"
+  },
+  {
+    "currentRank": 122,
+    "trackName": "Pink + White",
+    "name": "Frank Ocean",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+    "value": "11332213"
+  },
+  {
+    "currentRank": 123,
+    "trackName": "LA PATRULLA",
+    "name": "Peso Pluma",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022690127e1d6cd0aa35cc353b",
+    "value": "11323518"
+  },
+  {
+    "currentRank": 124,
+    "trackName": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
+    "name": "Eartha Kitt",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cfbcba7cc35a40e08e5aff67",
+    "value": "11315790"
+  },
+  {
+    "currentRank": 125,
+    "trackName": "Numb",
+    "name": "Linkin Park",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025f1f51d14e8bea89484ecd1b",
+    "value": "11246839"
+  },
+  {
+    "currentRank": 126,
+    "trackName": "Amapola",
+    "name": "Natanael Cano",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028db5f7ba6d30f0497113ef5e",
+    "value": "11236755"
+  },
+  {
+    "currentRank": 127,
+    "trackName": "505",
+    "name": "Arctic Monkeys",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
+    "value": "11207668"
+  },
+  {
+    "currentRank": 128,
+    "trackName": "Another Love",
+    "name": "Tom Odell",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+    "value": "11179840"
+  },
+  {
+    "currentRank": 129,
+    "trackName": "HOT TO GO!",
+    "name": "Chappell Roan",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0296fa88fb1789be437d5cb4b6",
+    "value": "11138840"
+  },
+  {
+    "currentRank": 130,
+    "trackName": "The Line (from the series Arcane League of Legends)",
+    "name": "Arcane",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024aaf2413384c1efcc38353c6",
+    "value": "11137041"
+  },
+  {
+    "currentRank": 131,
+    "trackName": "PELIGROSA",
+    "name": "FloyyMenor",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02200e2b6526846c59789c92e6",
+    "value": "10973191"
+  },
+  {
+    "currentRank": 132,
+    "trackName": "Blinding Lights",
+    "name": "The Weeknd",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+    "value": "10953262"
+  },
+  {
+    "currentRank": 133,
+    "trackName": "My Only Wish (This Year)",
+    "name": "Britney Spears",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0216ed688a08ecd351560f4566",
+    "value": "10920328"
+  },
+  {
+    "currentRank": 134,
+    "trackName": "Empty Out Your Pockets",
+    "name": "Juice WRLD",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c435ae51e1d314f3ecea02a0",
+    "value": "10877535"
+  },
+  {
+    "currentRank": 135,
+    "trackName": "Defying Gravity",
+    "name": "Cynthia Erivo",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0241ded89391c5350f6b8f991c",
+    "value": "10845667"
+  },
+  {
+    "currentRank": 136,
+    "trackName": "Shut up My Moms Calling",
+    "name": "Hotel Ugly",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02350ab7a839c04bfd5225a9f5",
+    "value": "10831706"
+  },
+  {
+    "currentRank": 137,
+    "trackName": "Die For You",
+    "name": "The Weeknd",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a048415db06a5b6fa7ec4e1a",
+    "value": "10795433"
+  },
+  {
+    "currentRank": 138,
+    "trackName": "Please Come Home for Christmas - 2013 Remaster",
+    "name": "Eagles",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026d4362a2b2e39422000f8ed3",
+    "value": "10772955"
+  },
+  {
+    "currentRank": 139,
+    "trackName": "on one tonight",
+    "name": "Gunna",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c67636f3021f5869095c0fc5",
+    "value": "10701843"
+  },
+  {
+    "currentRank": 140,
+    "trackName": "ESCAPATE",
+    "name": "Tito Double P",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0247e9618ef7411438f9c9478b",
+    "value": "10614403"
+  },
+  {
+    "currentRank": 141,
+    "trackName": "Lucid Dreams",
+    "name": "Juice WRLD",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+    "value": "10608539"
+  },
+  {
+    "currentRank": 142,
+    "trackName": "Stick Season",
+    "name": "Noah Kahan",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026ee35072df1af802cca09918",
+    "value": "10600901"
+  },
+  {
+    "currentRank": 143,
+    "trackName": "Mantra",
+    "name": "JENNIE",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a3775761df7db97cf6699e41",
+    "value": "10585535"
+  },
+  {
+    "currentRank": 144,
+    "trackName": "PUSH 2 START",
+    "name": "Tyla",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0234d2121bebebc1e7d9a0c369",
+    "value": "10542277"
+  },
+  {
+    "currentRank": 145,
+    "trackName": "greedy",
+    "name": "Tate McRae",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0222fd802bc61db666c7c81aa8",
+    "value": "10484492"
+  },
+  {
+    "currentRank": 146,
+    "trackName": "You Make It Feel Like Christmas (feat. Blake Shelton)",
+    "name": "Gwen Stefani",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f1ead165a7504b97e66ea7c4",
+    "value": "10467954"
+  },
+  {
+    "currentRank": 147,
+    "trackName": "lovely (with Khalid)",
+    "name": "Billie Eilish",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028a3f0a3ca7929dea23cd274c",
+    "value": "10461146"
+  },
+  {
+    "currentRank": 148,
+    "trackName": "I Love You So",
+    "name": "The Walters",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029214ff0109a0e062f8a6cf0f",
+    "value": "10439386"
+  },
+  {
+    "currentRank": 149,
+    "trackName": "Christmas (Baby Please Come Home)",
+    "name": "Mariah Carey",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+    "value": "10434801"
+  },
+  {
+    "currentRank": 150,
+    "trackName": "No. 1 Party Anthem",
+    "name": "Arctic Monkeys",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+    "value": "10417582"
+  },
+  {
+    "currentRank": 151,
+    "trackName": "All The Stars (with SZA)",
+    "name": "Kendrick Lamar",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c027ad28821777b00dcaa888",
+    "value": "10400523"
+  },
+  {
+    "currentRank": 152,
+    "trackName": "Christmas Time Is Here",
+    "name": "Vince Guaraldi Trio",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02a1c6bc83f5404947ffb87891",
+    "value": "10373295"
+  },
+  {
+    "currentRank": 153,
+    "trackName": "ROSONES",
+    "name": "Jorsshh",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e023ad59c0dc625065abeef8bed",
+    "value": "10353544"
+  },
+  {
+    "currentRank": 154,
+    "trackName": "Bad Dreams",
+    "name": "Teddy Swims",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02de4b0388cb6e5267132a07bc",
+    "value": "10326997"
+  },
+  {
+    "currentRank": 155,
+    "trackName": "Without Me",
+    "name": "Eminem",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+    "value": "10312383"
+  },
+  {
+    "currentRank": 156,
+    "trackName": "Flowers",
+    "name": "Miley Cyrus",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cd222052a2594be29a6616b5",
+    "value": "10304355"
+  },
+  {
+    "currentRank": 157,
+    "trackName": "Barbie",
+    "name": "MC Tuto",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f412f43fad4c3ffab163287c",
+    "value": "10226619"
+  },
+  {
+    "currentRank": 158,
+    "trackName": "Nonsense",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02700f7bf79c9f063ad0362bdf",
+    "value": "10207297"
+  },
+  {
+    "currentRank": 159,
+    "trackName": "Austin (Boots Stop Workin')",
+    "name": "Dasha",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024ccf88b66e04cfd247f287eb",
+    "value": "10179041"
+  },
+  {
+    "currentRank": 160,
+    "trackName": "Nobody Gets Me",
+    "name": "SZA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0270dbc9f47669d120ad874ec1",
+    "value": "10177936"
+  },
+  {
+    "currentRank": 161,
+    "trackName": "Shape of You",
+    "name": "Ed Sheeran",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+    "value": "10172184"
+  },
+  {
+    "currentRank": 162,
+    "trackName": "Something Just Like This",
+    "name": "The Chainsmokers",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e020c13d3d5a503c84fcc60ae94",
+    "value": "10162849"
+  },
+  {
+    "currentRank": 163,
+    "trackName": "Run Rudolph Run - Spotify Singles Holiday",
+    "name": "Mark Ambor",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02bd23af25b9cf738eb1abb755",
+    "value": "10089877"
+  },
+  {
+    "currentRank": 164,
+    "trackName": "Stargazing",
+    "name": "Myles Smith",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0281b12e1a0584e8ea7ba2ae4a",
+    "value": "10065004"
+  },
+  {
+    "currentRank": 165,
+    "trackName": "Saturn",
+    "name": "SZA",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d70916ee9e40c90380ba5f07",
+    "value": "10016597"
+  },
+  {
+    "currentRank": 166,
+    "trackName": "Juno",
+    "name": "Sabrina Carpenter",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626",
+    "value": "9984355"
+  },
+  {
+    "currentRank": 167,
+    "trackName": "As It Was",
+    "name": "Harry Styles",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+    "value": "9957996"
+  },
+  {
+    "currentRank": 168,
+    "trackName": "Morena Canela",
+    "name": "Chino Pacas",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ef6655b813e1b2cd726e99d3",
+    "value": "9915972"
+  },
+  {
+    "currentRank": 169,
+    "trackName": "Ransom",
+    "name": "Lil Tecca",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02bd69bbde4aeee723d6d08058",
+    "value": "9900484"
+  },
+  {
+    "currentRank": 170,
+    "trackName": "PERRO NEGRO",
+    "name": "Bad Bunny",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e027b1fc51ff3257b5286a1ecec",
+    "value": "9870543"
+  },
+  {
+    "currentRank": 171,
+    "trackName": "Talking to the Moon",
+    "name": "Bruno Mars",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+    "value": "9819671"
+  },
+  {
+    "currentRank": 172,
+    "trackName": "No One Noticed",
+    "name": "The Mar\u00edas",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024d070fdf58fad8c54c5beb85",
+    "value": "9800083"
+  },
+  {
+    "currentRank": 173,
+    "trackName": "Counting Stars",
+    "name": "OneRepublic",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029e2f95ae77cf436017ada9cb",
+    "value": "9783965"
+  },
+  {
+    "currentRank": 174,
+    "trackName": "Perfect",
+    "name": "Ed Sheeran",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+    "value": "9780531"
+  },
+  {
+    "currentRank": 175,
+    "trackName": "Dandelions",
+    "name": "Ruth B.",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0297e971f3e53475091dc8d707",
+    "value": "9774985"
+  },
+  {
+    "currentRank": 176,
+    "trackName": "Creep",
+    "name": "Radiohead",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02df55e326ed144ab4f5cecf95",
+    "value": "9708850"
+  },
+  {
+    "currentRank": 177,
+    "trackName": "All Girls Are The Same",
+    "name": "Juice WRLD",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+    "value": "9690961"
+  },
+  {
+    "currentRank": 178,
+    "trackName": "When I Was Your Man",
+    "name": "Bruno Mars",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+    "value": "9531730"
+  },
+  {
+    "currentRank": 179,
+    "trackName": "Thank God It's Christmas - 2011 Remaster",
+    "name": "Queen",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024aab69127abbdced0dec07e0",
+    "value": "9526565"
+  },
+  {
+    "currentRank": 180,
+    "trackName": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+    "name": "Gene Autry",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0235e9a6f6a1eded2062526499",
+    "value": "9522419"
+  },
+  {
+    "currentRank": 181,
+    "trackName": "Someone You Loved",
+    "name": "Lewis Capaldi",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2",
+    "value": "9488365"
+  },
+  {
+    "currentRank": 182,
+    "trackName": "Christmas Tree Farm",
+    "name": "Taylor Swift",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b550071a3fa8e03f6a83f313",
+    "value": "9459322"
+  },
+  {
+    "currentRank": 183,
+    "trackName": "Heather",
+    "name": "Conan Gray",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0288e3cda6d29b2552d4d6bc43",
+    "value": "9459220"
+  },
+  {
+    "currentRank": 184,
+    "trackName": "Don't Stop Believin' (2022 Remaster)",
+    "name": "Journey",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0263fa4751355b66f236943275",
+    "value": "9355563"
+  },
+  {
+    "currentRank": 185,
+    "trackName": "STAY (with Justin Bieber)",
+    "name": "The Kid LAROI",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b4d59e6fa7e5e7cbc57ac33a",
+    "value": "9320207"
+  },
+  {
+    "currentRank": 186,
+    "trackName": "Best Part (feat. H.E.R.)",
+    "name": "Daniel Caesar",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+    "value": "9294763"
+  },
+  {
+    "currentRank": 187,
+    "trackName": "Heavy Is the Crown",
+    "name": "Linkin Park",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0",
+    "value": "9279588"
+  },
+  {
+    "currentRank": 188,
+    "trackName": "Take Me to Church",
+    "name": "Hozier",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024ca68d59a4a29c856a4a39c2",
+    "value": "9253141"
+  },
+  {
+    "currentRank": 189,
+    "trackName": "Diet Pepsi",
+    "name": "Addison Rae",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e024e5a5862355a5e953549292b",
+    "value": "9252848"
+  },
+  {
+    "currentRank": 190,
+    "trackName": "Water",
+    "name": "Tyla",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02d20231861e86a6f74ef2393e",
+    "value": "9235144"
+  },
+  {
+    "currentRank": 191,
+    "trackName": "Rudolph The Red-Nosed Reindeer",
+    "name": "Burl Ives",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e029f8d6290b705901e1ad9aeb0",
+    "value": "9233564"
+  },
+  {
+    "currentRank": 192,
+    "trackName": "White Christmas (with V of BTS)",
+    "name": "V",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ddcfa17be44a365b6cda4612",
+    "value": "9159935"
+  },
+  {
+    "currentRank": 193,
+    "trackName": "Evergreen",
+    "name": "Richy Mitch & The Coal Miners",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021cc17bae5ee17cce117e198a",
+    "value": "9155714"
+  },
+  {
+    "currentRank": 194,
+    "trackName": "Lovers Rock",
+    "name": "TV Girl",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e1bc1af856b42dd7fdba9f84",
+    "value": "9106333"
+  },
+  {
+    "currentRank": 195,
+    "trackName": "Somewhere Only We Know",
+    "name": "Keane",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02045d0a38105fbe7bde43c490",
+    "value": "9087426"
+  },
+  {
+    "currentRank": 196,
+    "trackName": "Revenge",
+    "name": "XXXTENTACION",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02203c89bd4391468eea4cc3f5",
+    "value": "9069873"
+  },
+  {
+    "currentRank": 197,
+    "trackName": "ROCKSTAR",
+    "name": "Junior H",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f3ba6742a35f111aaea1ca2f",
+    "value": "9051318"
+  },
+  {
+    "currentRank": 198,
+    "trackName": "S\u00e3o Paulo (feat. Anitta)",
+    "name": "The Weeknd",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02935a1712f56a9ee9d51ffd6e",
+    "value": "8989800"
+  },
+  {
+    "currentRank": 199,
+    "trackName": "HIGHEST IN THE ROOM",
+    "name": "Travis Scott",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02e42b5fea4ac4c3d6328b622b",
+    "value": "8954659"
+  },
+  {
+    "currentRank": 200,
+    "trackName": "What Is This Feeling?",
+    "name": "Ariana Grande",
+    "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0241ded89391c5350f6b8f991c",
+    "value": "8918641"
+  }
+]
