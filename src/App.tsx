@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-      <div className="absolute top-0 right-0 p-4">
+      {/* <div className="absolute top-0 right-0 p-4">
         <Score />
-      </div>
+      </div> */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/game" element={<Game />} />
