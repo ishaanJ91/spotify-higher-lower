@@ -1,8 +1,6 @@
-import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 export default function Home() {
-  const [start, setStart] = useState(false);
   const navigate = useNavigate();
 
   const navigateGame = () => {
