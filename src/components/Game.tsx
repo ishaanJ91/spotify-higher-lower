@@ -23,7 +23,6 @@ export default function Game() {
   const [score, setScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
   const [gameOver, setGameOver] = useState(false);
-  const [rightStreams, setRightStreams] = useState(false);
   const [showAnimation, setShowAnimation] = useState(false);
   const [animatedStreams, setAnimatedStreams] = useState(0);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
@@ -31,13 +30,23 @@ export default function Game() {
   var nf = new Intl.NumberFormat();
 
   useEffect(() => {
-    if (score === 0) {
-      const leftSelection = getRandomTracks(trackData, 1);
-      const rightSelection = getRandomTracks(trackData, 1);
-      setLeftAlbum(leftSelection);
-      setRightAlbum(rightSelection);
+    const storedHighScore = localStorage.getItem("highScore");
+    if (storedHighScore) {
+      setHighScore(Number(storedHighScore));
     }
-  }, [score]);
+
+    const leftSelection = getRandomTracks(trackData, 1);
+    const rightSelection = getRandomTracks(trackData, 1);
+    setLeftAlbum(leftSelection);
+    setRightAlbum(rightSelection);
+  }, []);
+
+  const updateHighScore = (newScore: number) => {
+    if (newScore > highScore) {
+      setHighScore(newScore);
+      localStorage.setItem("highScore", newScore.toString());
+    }
+  };
 
   const handleGuess = (isHigher: boolean) => {
     const correct = isHigher
@@ -61,7 +70,7 @@ export default function Game() {
           setShowAnimation(false);
           if (correct) {
             setScore(score + 1);
-            setHighScore(Math.max(score + 1, highScore));
+            updateHighScore(Math.max(score + 1, highScore));
             setLeftAlbum(rightAlbum);
             setRightAlbum(getRandomTracks(trackData, 1));
           } else {
@@ -113,26 +122,32 @@ export default function Game() {
         </div>
 
         {/* Game */}
-        <div className="flex flex-row justify-evenly items-center px-20 mt-20">
+        <div className="flex lg:flex-row xs:flex-col justify-evenly items-center px-20 mt-2">
           <div className="flex flex-row justify-around">
             {leftAlbum.map((track, index) => (
               <div key={index} className="flex flex-col items-center gap-1">
                 <img
                   src={track.displayImageUri}
                   alt={track.trackName}
-                  width="300"
-                  className="pb-6"
+                  className="pb-6 lg:w-80 lg:h-80 xs:w-60 xs:h-60"
                 />
-                <h2>{track.trackName}</h2>
-                <p className="text-center w-full max-w-xs md:max-w-md break-words">
+                <h2 className="text-center w-full max-w-xs xs:max-w-xs break-words">
+                  {track.trackName}
+                </h2>
+                <p className="text-center w-full max-w-xs xs:max-w-md break-words">
                   {track.name}
                 </p>
-                <h1>{nf.format(track.value)}</h1>
+                <h1 className="lg:text-5xl xs:text-3xl">
+                  {nf.format(track.value)}
+                </h1>
               </div>
             ))}
           </div>
 
-          <div>
+          <div
+            className="w-fit-content flex justify-center items-center"
+            style={{ height: "4rem" }}
+          >
             {isCorrect !== null ? (
               <img src={isCorrect ? tick : cross} className="w-14 h-14" />
             ) : (
@@ -144,15 +159,20 @@ export default function Game() {
             <img
               src={rightAlbum[0]?.displayImageUri}
               alt={rightAlbum[0]?.trackName}
-              width="300"
-              className="pb-6"
+              className="pb-6 lg:w-80 lg:h-80 xs:w-60 xs:h-60"
             />
-            <h2>{rightAlbum[0]?.trackName}</h2>
-            <p className="text-center w-full max-w-xs md:max-w-md break-words">
+            <h2 className="text-center w-full max-w-xs break-words">
+              {rightAlbum[0]?.trackName}
+            </h2>
+            <p className="text-center w-full max-w-md break-words">
               {rightAlbum[0]?.name}
             </p>
             {showAnimation ? (
-              <h1 className={`${isCorrect ? "text-primary" : "text-red-600"}`}>
+              <h1
+                className={`lg:text-5xl xs:text-3xl ${
+                  isCorrect ? "text-primary" : "text-red-600"
+                }`}
+              >
                 {nf.format(animatedStreams)}
               </h1>
             ) : null}
