@@ -2,8 +2,17 @@ import { useState, useEffect } from "react";
 import trackData from "../assets/data.json"; // Ensure this path is correct
 
 function getRandomTracks(tracks: any[], count: number) {
-  const shuffled = tracks.sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, count);
+  let currentIndex = tracks.length;
+  while (currentIndex != 0) {
+    const randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    [tracks[currentIndex], tracks[randomIndex]] = [
+      tracks[randomIndex],
+      tracks[currentIndex],
+    ];
+  }
+  return tracks.slice(0, count);
 }
 
 export default function Game() {
@@ -11,8 +20,8 @@ export default function Game() {
   const [rightAlbum, setRightAlbum] = useState<any[]>([]);
   const [score, setScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
-  const [hasHigher, setHasHigher] = useState(false);
-  const [hasLower, setHasLower] = useState(false);
+  const [gameOver, setGaveOver] = useState(false);
+  const [rightStreams, setRightStreams] = useState(false);
   var nf = new Intl.NumberFormat();
 
   useEffect(() => {
@@ -24,14 +33,26 @@ export default function Game() {
     }
   }, [score]);
 
+  function showButtonHigh() {
+    handleHigher();
+    setRightStreams(true);
+  }
+
+  function showButtonLow() {
+    handleLower();
+    setRightStreams(true);
+  }
+
   const handleHigher = () => {
     if (leftAlbum[0].value > rightAlbum[0].value) {
       setScore(score + 1);
       setHighScore(Math.max(score + 1, highScore));
       setLeftAlbum(rightAlbum);
+      setRightStreams(false);
       setRightAlbum(getRandomTracks(trackData, 1));
     } else {
-      setScore(0);
+      setGaveOver(true);
+      setRightStreams(false);
     }
   };
 
@@ -40,11 +61,36 @@ export default function Game() {
       setScore(score + 1);
       setHighScore(Math.max(score + 1, highScore));
       setLeftAlbum(rightAlbum);
+      setRightStreams(false);
       setRightAlbum(getRandomTracks(trackData, 1));
     } else {
-      setScore(0);
+      setGaveOver(true);
+      setRightStreams(false);
     }
   };
+
+  if (gameOver) {
+    return (
+      <div className="flex flex-col justify-center h-screen items-center text-white">
+        <h1>Game Over</h1>
+        <p>Your final score was {score}</p>
+        <button
+          className="bg-green-700 text-white border-none hover:bg-green-900"
+          onClick={() => {
+            setScore(0);
+            setGaveOver(false);
+            const leftSelection = getRandomTracks(trackData, 1);
+            const rightSelection = getRandomTracks(trackData, 1);
+            setLeftAlbum(leftSelection);
+            setRightAlbum(rightSelection);
+          }}
+        >
+          {" "}
+          Play Again{" "}
+        </button>
+      </div>
+    );
+  }
 
   return (
     <>
@@ -88,18 +134,24 @@ export default function Game() {
                 <h2>{track.trackName}</h2>
                 <p>{track.name}</p>
                 <div className="flex flex-row gap-4">
-                  <button
-                    className="bg-green-700 text-white border-none hover:bg-green-900"
-                    onClick={handleHigher}
-                  >
-                    Higher
-                  </button>
-                  <button
-                    className="bg-green-700 text-white border-none hover:bg-green-900"
-                    onClick={handleLower}
-                  >
-                    Lower
-                  </button>
+                  {rightStreams ? (
+                    <h1>{nf.format(track.value)}</h1>
+                  ) : (
+                    <div className="flex flex-row gap-4">
+                      <button
+                        className="bg-green-700 text-white border-none hover:bg-green-900"
+                        onClick={showButtonHigh}
+                      >
+                        Higher
+                      </button>
+                      <button
+                        className="bg-green-700 text-white border-none hover:bg-green-900"
+                        onClick={showButtonLow}
+                      >
+                        Lower
+                      </button>
+                    </div>
+                  )}
                 </div>
               </div>
             ))}
