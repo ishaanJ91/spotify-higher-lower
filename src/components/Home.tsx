@@ -15,7 +15,7 @@ export default function Home() {
           Spotify Higher or Lower{" "}
         </h1>
         <button
-          className="bg-bg border-solid border-1 rounded-xl border-primary text-primary text-2xl hover:bg-primary hover:text-black font-bold py-4 px-6 rounded"
+          className="bg-bg border-solid border-1 rounded-xl border-primary text-primary text-2xl hover:bg-primary hover:text-black font-bold py-4 px-6"
           onClick={() => navigateGame()}
         >
           Start Game

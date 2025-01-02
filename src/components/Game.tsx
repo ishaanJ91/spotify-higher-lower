@@ -56,7 +56,6 @@ export default function Game() {
     setIsCorrect(correct);
     setShowAnimation(true);
 
-    // Start counting animation for streams
     let currentValue = rightAlbum[0].value - 2000000;
     setAnimatedStreams(currentValue);
 
